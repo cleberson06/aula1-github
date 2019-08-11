@@ -9,7 +9,14 @@ public class Program {
 			System.out.println(i + "   Aprendendo git");
 			if(i == 5) {
 				System.out.println("Falta muito para aprender o git ainda!");
+				int [] array = new int[3];
+				array [0] = 10;
+				
+				System.out.println(array[0]);
 			}
+			
+			
+			
 		}
 
 	}
